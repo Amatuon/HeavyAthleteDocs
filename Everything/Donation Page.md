@@ -1,0 +1,5 @@
+# Visit the [Page](https://heavyathlete.com/donations/donate/)
+
+Please never feel like you have to donate to the site to keep us alive. Heavy Athlete has several monetization strategies for more info see [[How we make Money]]. So the site will continue long into the future. If I get my way it will even out live me. That being said it your on the donation page documentation so you know I have to ask for money.  Making the site has been really hard and to get it off the ground in the first place took about 3 months of full time (70+ hours a week) unpaid work. The potential profit of the site makes it worth the gamble but your support is very meaningful. I think what I have managed to accomplish so far is amazing and I know what I have planned for the future. If I can pull off my dreams for the site then you haven't seen anything yet. If you would like to help support creating the best highland games experience possible please consider donating.
+
+-- Michael McDougal

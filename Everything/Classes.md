@@ -1,0 +1,5 @@
+# Classes are about the implements thrown and [[Rankings]]
+
+Classes first and foremost represent the weights of implements thrown at games. Pro scores are fundamentally different that amateur scores because the weight of the weight of a pro sheaf is 20 lbs vs the amateur 16 lbs see [[Standard Weights]] for more info. The other thing that goes in to determining class is the athlete's biology. Men and women are separated, lightweights can optionally be separated, and masters can optionally be separated. Classes do exist at the game level because they determine the implements thrown but more importantly classes exist outside of individual games as well. Classes are how scores are found under [[Rankings]]. Currently we are in discussions about if and how [[Passthrough scoring]] would and should work.
+
+To understand [[Flights]] or difference in [[Flights vs Classes]] read their respective pages.
