@@ -21,6 +21,7 @@ Useful plugins
 --------------
 
 [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian): This will help you create tables in obsidian which is harder than it should be
+
 [Obsidian Git](obsidian://show-plugin?id=obsidian-git): This helps integrate Obsidian with git commands
 
 Contribute to the docs
