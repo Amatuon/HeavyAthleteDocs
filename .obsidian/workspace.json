@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Sign Up For Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Sign Up For Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Everything/Sign Up For Game.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,6 +211,10 @@
   },
   "active": "6e188768a50a7fb2",
   "lastOpenFiles": [
+    "Everything/Braemar Stone.md",
+    "Everything/Stripe.md",
+    "Everything/Home Page.md",
+    "Everything/Find Upcoming Game.md",
     "Everything/Quick Start Director.md",
     "Everything/Quick Start Athlete.md",
     "Everything/Obsidian.md",
@@ -236,10 +236,6 @@
     "Everything/Athlete Page.md",
     "Conversation with masters worlds.md",
     "Quick Start Director.md",
-    "Getting Started.md",
-    "Quick Start Athlete.md",
-    "Athlete Page.md",
-    "Donation Page.md",
-    "Sponsors.md"
+    "Getting Started.md"
   ]
 }
