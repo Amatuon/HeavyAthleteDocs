@@ -188,8 +188,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "a4232012d199b37f",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.5"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -202,7 +213,7 @@
       }
     ]
   },
-  "active": "c4cfac615cf2261a",
+  "active": "6e188768a50a7fb2",
   "lastOpenFiles": [
     "Everything/Quick Start Director.md",
     "Everything/Quick Start Athlete.md",
