@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e59bbf63423758c8",
+        "id": "a75178b30c2896f0",
         "type": "tabs",
         "children": [
           {
-            "id": "6e188768a50a7fb2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f5dee7aa320c8103",
+            "id": "8a67ffa058501a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Traditional Order.md",
+                "file": "Everything/Throw Replay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb773863c6a92d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Everything/Setting Up Throw Replay.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Everything/Throw Replay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Everything/Throw Replay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Everything/Throw Replay.md"
+              }
             }
           },
           {
@@ -161,81 +169,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3ebb607e157c0ae5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "54b220138a05b886",
-        "type": "window",
-        "children": [
-          {
-            "id": "d476feef33c0f94a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c4cfac615cf2261a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Everything/Sign Up For Game.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a4232012d199b37f",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.5"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 900,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6e188768a50a7fb2",
+  "active": "d6793bba44217dd0",
   "lastOpenFiles": [
-    "Everything/Braemar Stone.md",
+    "Everything/Using Throw Replay.md",
+    "Everything/Throw Replay.md",
+    "Everything/Update Profile.md",
     "Everything/Stripe.md",
-    "Everything/Home Page.md",
-    "Everything/Find Upcoming Game.md",
+    "Everything/Setting Up Throw Replay.md",
     "Everything/Quick Start Director.md",
     "Everything/Quick Start Athlete.md",
+    "Everything/Partners.md",
     "Everything/Obsidian.md",
     "Everything/Navbar.md",
     "Everything/How we make Money.md",
+    "Everything/Home Page.md",
     "Everything/Heavy Athlete Documentation.md",
     "Everything/Getting Started.md",
     "Everything/Flights vs Classes.md",
     "Everything/Flights.md",
+    "Everything/Find Upcoming Game.md",
     "Everything/Donation Page.md",
     "Everything/Database Layout.md",
     "Everything/Dark Stranger LLC.md",
     "Everything/Classes.md",
     "Everything/Claim Historical Data.md",
-    "Everything/Update Profile.md",
-    "Everything/Traditional Order.md",
-    "Everything/Sponsors.md",
-    "Everything/Sign Up For Game.md",
+    "TVV 7_16_24.md",
     "Everything/Athlete Page.md",
-    "Conversation with masters worlds.md",
-    "Quick Start Director.md",
-    "Getting Started.md"
+    "Everything/Throw_Replay_Model_Sample.jpg",
+    "Everything/Throw_Replay_Model_Pixels.JPG",
+    "Attachments",
+    "Everything/Sign Up For Game.md",
+    "Everything/Throw_Replay_Model_Pixels.JPG.0.pdnSave",
+    "Everything/~hrow_Replay_Model_Pixels.tmp",
+    "Everything/IMG_20240716_105306022.jpg",
+    "Everything/Braemar Stone.md"
   ]
 }
