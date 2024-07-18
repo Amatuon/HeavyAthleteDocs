@@ -1,19 +1,66 @@
-# Welcome to Heavy Athlete
+# Athlete Quick Start Guide
 
-This guide is designed to get your athlete profile in tip top shape and to get you into a game as fast as possible.
+Welcome to Heavy Athlete! This guide will help you set up your athlete profile and join your first game quickly and easily.
 
-If you haven't already made an account with us [Sign Up](https://heavyathlete.com/auth/register/) and [Login](https://heavyathlete.com/auth/login/) the rest of this guide assumes you are logged in. 
+## Step 1: Create an Account
+1. [Sign Up](https://heavyathlete.com/auth/register/) for a new account
+2. [Login](https://heavyathlete.com/auth/login/) to your account
 
-When you log in you should be redirected to your [[Athlete Page]]. This is a portion of the site dedicated to you. You have the ability to modify your name and bio to express a little bit about who you are to your fellow competitors and to [[Director Page|Game Directors]]. This page also has a link to every game that you have a score / are signed up for making it a useful navigation page for you. Follow the link for the [[Athlete Page]] if you want more details.
+## Step 2: Set Up Your Athlete Page
+After logging in, you'll be directed to your [[Athlete Page]]. This is your personal hub on the site.
 
-Before hopping into a game it is probably a good idea to click the [[Update Profile]] link. Here you have some options. If you have competed in the highland game before joining heavy athlete you probably need to [[Claim Historical Data|Claim your Historical Data]]. Click the link on the page and you will see a list of all accounts linked to your profile. That's right accounts plural. It was easy with older management systems to have the same person split across multiple names eg. [Gerald Witzman](https://heavyathlete.com/athlete/35/) occasionally showed up in games as Jerry Witzman. While that's irritating for people with nicknames its was a lot more irritating for women that changed their names after marriage. To fight this you can claim as many historical names as you want and the data will be displayed correctly on your profile moving forwards. To claim a historical name just start typing in to the search bar provided (not the one in the [[Navbar]]) and click on the athlete you would like to claim. This will pop up a mini version of the athlete's profile so that you can verify it really is you. When you are content click the Add this historic data button. This will add that data to your account and remove it from the pool of claimable data. If you cannot find your data it is possible that someone claimed it incorrectly. In such an event [Email us](mailto:theheavyathlete@gmail.com) and we will do out best to resolve the issue. 
+1. Modify your name and bio
+2. Set up location data (Optional)
+3. Set up your adaptive class (Optional)
+4. Use this page to navigate to your games and scores
 
-Now that you have claimed your historic data it might be nice to update your profile and add a bio. This can be anything you want (inside the law) and this data will be available to game directors so they can talk about you to the crowd during the games. Whether or not they actually talk about you is up to them but it is nice to give them the option. For more details visit the [[Athlete Page]].
+For more details, visit the [[Athlete Page]] documentation.
 
-Okay now you have all your data and a beautiful bio promoting yourself and showing the world how great you are. Now you want to join a game. If you know the name of the game you wish to join just type it in the search bar in the [[Navbar]] (top right) and click it when it comes up. If you don't know which game you want quite yet I recommend the [[Find Upcoming Game]] link on the [[Home Page]].
+## Step 3: Update Your Profile
+Click the [[Update Profile]] link to access important options:
 
-Now that you have found a game and made it to the [[Game Page]] if the game's registration is open and you haven't already signed up you should see a link in the navbar which will allow you to join the game. This will take you to the [[Game Sign up Page]] which will look different depending on the game settings. If the director requires a signed [[Waivers|Waiver]] then you will have the opportunity to read it on this page and a link to read it in a separate page. Follow the on screen instruction to sign the waiver. That signature is legally binding so make sure actually read that thing. Next if the game is in team mode or mixed mode then you will see a lovely warning telling you not to overpay. The tl:dr is only one person on each team needs to pay for the game. They will charged the total amount of the team admission and will receive links to distribute the sign ups for the rest of the team. If you manage to overpay in spite of our warnings the game director thanks you for your generous donation to the games. Next is a button which will sign you up for the game with the status payment pending. If the game is free this should resolve basically instantly and you will be taken back to the game page and now be in the game. If the game is a paid game (most are) then you will be redirected to [[Stripe]]. When you complete your payment on stripe you will be sent back to the game page. When Stripe finishes your transaction two things can happen either your payment will succeed or it will fail. On a success you will be moved from payment pending into the game proper and on a failure you will be removed from the game so that you may try signing up again. Most of the time Stipe settles faster than your browser redirects you (at least if you pay with a card) so most of that payment pending status should be invisible to you. For more details read [[Help: I'm stuck at payment pending]] and [[Sign Up For Game]].
+### Claim Historical Data
+If you've competed before joining Heavy Athlete:
+1. On the Update Profile page Click [Update History](https://heavyathlete.com/auth/link_historic_data/)
+2. Search for your previous names or accounts. You can select multiple names to claim
+3. Verify and add the historic data to your profile
 
-Now that you are signed up the only thing left to do is get a [[Kilt]] and practice. For addition reading we suggest [[Quick Start Director]], [[Rules of the Games]], and [[History of the Games]].
+For a dedicated guide check [[Claim Historical Data]]
+If you can't find your data, [email us](mailto:theheavyathlete@gmail.com) for assistance.
 
-If you are looking for more help, or how to practice, just want to hang with a cool community please join the [Heavy Athlete Discord Server](https://discord.gg/76C2WeTV9B)
+### Add or Update Your Bio
+- Navigate back to the Update Profile page and Click Update Athlete Info
+- Write anything you want in your bio (within legal limits)
+- This information will be available to game directors for announcements
+- While your here you can provide some location data (Optional)
+- If you provide a Country then that flag will appear next to your name in several places on the site
+- If you provide a City and State (or whatever your county calls its subdivisions) then the [[Find Upcoming Game]] feature will attempt to guess your zip code making the feature more powerful
+- This page also allows you to select your adaptive class (if applicable)
+- Finally this is where you can enable dark mode for the site
+
+## Step 4: Join a Game
+1. Find a game:
+   - Use the search bar in the [[Navbar]] if you know the game name
+   - Or use the [[Find Upcoming Game]] link on the [[Home Page]]
+2. On the [[Game Page]], look for the registration link in the navbar
+
+## Step 5: Game Sign-Up Process
+On the [[Game Sign up Page]]:
+
+1. Read and sign any required [[Waivers]]
+2. Pay attention to team mode warnings to avoid overpayment
+3. Click the sign-up button
+4. For paid games, complete payment through [[Stripe]]
+
+For more details, see [[Sign Up For Game]] and [[Help: I'm stuck at payment pending]].
+
+## Next Steps
+- Get a [[Kilt]]
+- Start practicing
+- Read additional resources:
+  - [[Quick Start Director]]
+  - [[Rules of the Games]]
+  - [[History of the Games]]
+
+## Join Our Community
+For more help, practice tips, or to connect with fellow enthusiasts, join the [Heavy Athlete Discord Server](https://discord.gg/76C2WeTV9B).
