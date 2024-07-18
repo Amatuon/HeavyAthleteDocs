@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/How we make Money.md",
+                "file": "Everything/Dark Stranger LLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/How we make Money.md",
+                "file": "Everything/Dark Stranger LLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/How we make Money.md"
+                "file": "Everything/Dark Stranger LLC.md"
               }
             }
           },
@@ -157,8 +157,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8a67ffa058501a5b",
+  "floating": {
+    "id": "167a6ac3c4e7ae12",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d3b72050ac382026",
+        "type": "window",
+        "children": [
+          {
+            "id": "4f04d6ecc82a261c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0217a7e14e714789",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Everything/Dark Stranger LLC.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0217a7e14e714789",
   "lastOpenFiles": [
+    "Everything/Athlete Page.md",
+    "Everything/How we make Money.md",
     "Everything/Obsidian.md",
     "Everything/Navbar.md",
     "Everything/Partners.md",
@@ -168,7 +207,6 @@
     "Everything/Stripe.md",
     "Everything/Dark Stranger LLC.md",
     "Everything/Claim Historical Data.md",
-    "Everything/Athlete Page.md",
     "Everything/Heavy Athlete Documentation.md",
     "Everything/Classes.md",
     "Everything/Quick Start Athlete.md",
@@ -176,7 +214,6 @@
     "Everything/Update Profile.md",
     "Everything/Throw Replay.md",
     "Everything/Using Throw Replay.md",
-    "Everything/How we make Money.md",
     "Everything/Home Page.md",
     "Everything/Flights vs Classes.md",
     "Everything/Flights.md",

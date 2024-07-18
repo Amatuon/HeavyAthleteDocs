@@ -50,7 +50,7 @@ At Heavy Athlete, we firmly believe in protecting our users' privacy. We want to
 
 - We do not sell customer data.
 - We will not sell customer data in the future.
-- Your personal information and usage data are not part of our monetization strategy.
+- Your personal information is not part of our monetization strategy.
 
 Our revenue is generated solely through the methods outlined above. We believe in building trust with our community by being transparent about our business practices and respecting your privacy.
 
