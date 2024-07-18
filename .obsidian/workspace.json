@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Heavy Athlete Documentation.md",
+                "file": "Everything/How we make Money.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Heavy Athlete Documentation.md",
+                "file": "Everything/How we make Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Heavy Athlete Documentation.md",
+                "file": "Everything/How we make Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Heavy Athlete Documentation.md"
+                "file": "Everything/How we make Money.md"
               }
             }
           },
@@ -159,21 +159,23 @@
   },
   "active": "8a67ffa058501a5b",
   "lastOpenFiles": [
+    "Everything/Obsidian.md",
+    "Everything/Navbar.md",
+    "Everything/Partners.md",
+    "Everything/Setting Up Throw Replay.md",
+    "Everything/Quick Start Director.md",
+    "Everything/Sign Up For Game.md",
+    "Everything/Stripe.md",
+    "Everything/Dark Stranger LLC.md",
+    "Everything/Claim Historical Data.md",
+    "Everything/Athlete Page.md",
+    "Everything/Heavy Athlete Documentation.md",
     "Everything/Classes.md",
     "Everything/Quick Start Athlete.md",
-    "Everything/Claim Historical Data.md",
     "Everything/Getting Started.md",
-    "Everything/Heavy Athlete Documentation.md",
-    "Everything/Athlete Page.md",
     "Everything/Update Profile.md",
     "Everything/Throw Replay.md",
     "Everything/Using Throw Replay.md",
-    "Everything/Stripe.md",
-    "Everything/Setting Up Throw Replay.md",
-    "Everything/Quick Start Director.md",
-    "Everything/Partners.md",
-    "Everything/Obsidian.md",
-    "Everything/Navbar.md",
     "Everything/How we make Money.md",
     "Everything/Home Page.md",
     "Everything/Flights vs Classes.md",
@@ -181,12 +183,10 @@
     "Everything/Find Upcoming Game.md",
     "Everything/Donation Page.md",
     "Everything/Database Layout.md",
-    "Everything/Dark Stranger LLC.md",
     "TVV 7_16_24.md",
     "Everything/Throw_Replay_Model_Sample.jpg",
     "Everything/Throw_Replay_Model_Pixels.JPG",
     "Attachments",
-    "Everything/Sign Up For Game.md",
     "Everything/Throw_Replay_Model_Pixels.JPG.0.pdnSave",
     "Everything/~hrow_Replay_Model_Pixels.tmp",
     "Everything/IMG_20240716_105306022.jpg",

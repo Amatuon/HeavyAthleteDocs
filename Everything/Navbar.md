@@ -1,11 +1,44 @@
-The navbar is the most efficient way to move around the site. 
-Available on every page there isn't much to it. If you can't see the full navbar you are probably on mobile. Click the ≡ symbol to expand it.
+# Navigating Heavy Athlete: The Navbar Guide
 
-There are not many elements in the navbar.
- - In the first position you have a link the [[Home Page]]
- - If you are not signed in the next two positions with be links to [Login](https://heavyathlete.com/auth/login/) and [Sign Up](https://heavyathlete.com/auth/register/) 
- - If you are signed in these get replaced with your user name. Clicking your user name is a link to your [[Athlete Page]]
- - If you are a [[Director Page|Game Director]] then you will have a link called AD Dashboard which will take you to your [[Director Dashboard]]
- - The next link is situational. If you are on a [[Game Page]] and Registration is open for the game and you have not signed up already for the game then you will see a [[Sign Up For Game|Join this game]] link.
- - Jumping over to the right side of the screen if you are logged in then you have a link to [Log out](https://heavyathlete.com/auth/logout/)
- - Finally tucked all the way to the right is the [[Search Bar]]. This is feature of the navbar that really makes it useful. Start typing what you are looking for and the search bar will live show results under itself. Click what you want and you will be taken straight there.
+The navbar is your most efficient tool for moving around the site. It's available on every page and packed with useful features.
+
+## Accessing the Full Navbar
+- On desktop: Visible by default
+- On mobile: Click the ≡ symbol to expand
+
+## Navbar Elements
+
+### Left Side
+1. **Home Page Link**: Always in the first position
+
+2. **User-Specific Links**:
+   - If not signed in:
+     - [Login](https://heavyathlete.com/auth/login/)
+     - [Sign Up](https://heavyathlete.com/auth/register/)
+   - If signed in:
+     - Your username (links to your [[Athlete Page]])
+
+3. **Director Dashboard** (if applicable):
+   - For [[Director Page|Game Directors]]
+   - Links to your [[Director Dashboard]]
+
+4. **Situational Link**:
+   - On [[Game Page|Game Pages]] with open registration
+   - Shows [[Sign Up For Game|Join this game]] if you're not already signed up
+
+### Right Side
+5. **Unit Toggle**:
+	- Switch between Metric and Freedom Units
+    - Only available when signed in
+
+6. **Log Out**:
+    - [Log out](https://heavyathlete.com/auth/logout/) link (when logged in)
+
+7. **[[Search Bar]]**:
+    - Located at the far right
+    - Start typing to see live results
+    - Click on a result to navigate directly to it
+
+## Pro Tip
+
+The Search Bar remains the navbar's most powerful feature, allowing quick navigation throughout the site.

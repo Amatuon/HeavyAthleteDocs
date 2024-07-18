@@ -1,9 +1,30 @@
-# The man behind the curtain
+# The Man Behind the Curtain
 
-Hi there I'm Michael McDougal and I am the owner, CEO, and sole member of Dark Stranger LLC. Obviously we are not a big company seeing as I'm the only employee but Heavy Athlete is produced by this company. The reason its produced by Dark Stranger LLC and not just Michael McDougal is that if you have a problem with my product you can only go after the company assets not my personal assets. 
+## The Founder
+Hello! I'm Michael McDougal, the owner, CEO, and sole employee of Dark Stranger LLC.
 
-Many people ask about the name. If you know a little bit of Gaelic it makes perfect sense. McDougal is the Americanization of MacDougall. Mac means son of, Dou means dark or secret or mysterious, and Gall means stranger. So my last name is literally son of a dark stranger. I thought that was pretty cool so I decided to embrace it for my company name.
+## Company Overview
+Dark Stranger LLC is the company behind Heavy Athlete. While we're a small operation, we're dedicated to creating useful products for our users.
 
-Notable products worked on by Dark Stranger LLC include:
-[Heavy Athlete](https://heavyathlete.com): You are literally in the docs for this one
-[ChemStud](https://chemstud.com): An app that can solve collegiate freshman level chemistry
+### Legal Structure
+- Dark Stranger LLC is a separate legal entity from Michael McDougal personally.
+- This structure protects personal assets in case of any legal issues with the company's products.
+
+## The Name's Origin
+The company name has an interesting backstory rooted in Gaelic:
+- McDougal is an Americanized version of MacDougall
+- Mac = son of
+- Dou = dark, secret, or mysterious
+- Gall = stranger
+- So, McDougal essentially means "son of a dark stranger"
+
+## Notable Products
+Dark Stranger LLC has developed the following products:
+
+1. [Heavy Athlete](https://heavyathlete.com)
+   - The platform you're currently using
+
+2. [ChemStud](https://chemstud.com)
+   - An app for solving collegiate freshman-level chemistry problems
+
+Feel free to explore these products and reach out if you have any questions!
