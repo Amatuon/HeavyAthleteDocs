@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a75178b30c2896f0",
+        "id": "585f229cef172c94",
         "type": "tabs",
         "children": [
           {
-            "id": "8a67ffa058501a5b",
+            "id": "3e4c48ab048fa065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/How we make Money.md",
+                "file": "Marty's Computation Corner/A Website is fried chicken.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Dark Stranger LLC.md",
+                "file": "Marty's Computation Corner/A Website is fried chicken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Dark Stranger LLC.md",
+                "file": "Marty's Computation Corner/A Website is fried chicken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Dark Stranger LLC.md"
+                "file": "Marty's Computation Corner/A Website is fried chicken.md"
               }
             }
           },
@@ -157,55 +157,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "167a6ac3c4e7ae12",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d3b72050ac382026",
-        "type": "window",
-        "children": [
-          {
-            "id": "4f04d6ecc82a261c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0217a7e14e714789",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Everything/Dark Stranger LLC.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0217a7e14e714789",
+  "active": "d6793bba44217dd0",
   "lastOpenFiles": [
-    "Everything/Athlete Page.md",
+    "Everything/Dark Stranger LLC.md",
+    "Everything/Partners.md",
+    "Marty's Computation Corner/A Website is fried chicken.md",
+    "Secret Blogs/Secret Blogs.md",
+    "Marty's Computation Corner",
+    "Secret Blogs",
     "Everything/How we make Money.md",
+    "Everything/Athlete Page.md",
     "Everything/Obsidian.md",
     "Everything/Navbar.md",
-    "Everything/Partners.md",
     "Everything/Setting Up Throw Replay.md",
     "Everything/Quick Start Director.md",
     "Everything/Sign Up For Game.md",
     "Everything/Stripe.md",
-    "Everything/Dark Stranger LLC.md",
     "Everything/Claim Historical Data.md",
     "Everything/Heavy Athlete Documentation.md",
     "Everything/Classes.md",
@@ -220,13 +187,11 @@
     "Everything/Find Upcoming Game.md",
     "Everything/Donation Page.md",
     "Everything/Database Layout.md",
-    "TVV 7_16_24.md",
     "Everything/Throw_Replay_Model_Sample.jpg",
     "Everything/Throw_Replay_Model_Pixels.JPG",
     "Attachments",
     "Everything/Throw_Replay_Model_Pixels.JPG.0.pdnSave",
     "Everything/~hrow_Replay_Model_Pixels.tmp",
-    "Everything/IMG_20240716_105306022.jpg",
-    "Everything/Braemar Stone.md"
+    "Everything/IMG_20240716_105306022.jpg"
   ]
 }

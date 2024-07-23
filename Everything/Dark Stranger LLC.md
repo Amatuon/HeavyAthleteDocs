@@ -24,7 +24,7 @@ Dark Stranger LLC has developed the following products:
 1. [Heavy Athlete](https://heavyathlete.com)
    - The platform you're currently using
 
-2. [ChemStud](https://chemstud.com)
+2. [ChemStud](https://chemstud.com/store/)
    - An app for solving collegiate freshman-level chemistry problems
 
 Feel free to explore these products and reach out if you have any questions!
