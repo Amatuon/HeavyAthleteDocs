@@ -1,8 +1,6 @@
 # A Website is like Fried Chicken: Why CSS Matters
-
 By [Michael McDougal](https://heavyathlete.com/athlete/1/), aka [Marty the Scottish Mermaid](https://www.instagram.com/martythescottishmermaid/)
-
-[![All images were generated using Google Gemini. Note to other writers using this as a guide. Yes you can insert images and make them links too! Try clicking this one](With_and_Without_CSS.jpg)](https://youtu.be/dQw4w9WgXcQ?si=wjHiNJF5HqbPv_6t)
+[![All images were generated using Google Gemini. Note to other writers using this as a guide. Yes you can insert images and make them links too! Try clicking this one's link icon](With_and_Without_CSS.jpg)](https://youtu.be/dQw4w9WgXcQ?si=wjHiNJF5HqbPv_6t)
 ## Introduction: Function vs. Form
 
 Hi there as a chemist and programmer I tend to fall on the side of function over form every time. Working on [Heavy Athlete](https://heavyathlete.com) has taught me to think a little differently. The most common feedback I received in the early days was it doesn't look like a 'real' site. What on earth is a 'real' site? I mean you say that after connecting to it on the real internet, using a real browser, it serves real data and I really worked on it. No one could give me a straight answer until one of my friends said, "Mike add some CSS and you'll really have something." I brushed it off at first. There is already CSS all over the site. I mean have you seen the tables? But in the end he was right I needed more CSS. In fact while CSS alone can't make a 'good' site without it you can't make a 'real' site.  

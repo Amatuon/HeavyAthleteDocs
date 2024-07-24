@@ -7,7 +7,9 @@ First snap a photo of yourself in the mirror or have someone else snap the photo
 ![[Throw_Replay_Model_Sample.jpg]]
 
 This photo will work fine for our purposes but we need to get a little more data to help the Throw Replay system. We need the length of the object (use a ruler to figure this one out) and the length of the object in pixels. To get the pixel length open basically any image editing software and draw a selection box around the straight edge. Make sure the edge of your selection box lines up with the edge of your object. See example below.
-![[Throw_Replay_Model_Pixels.JPG]]As you can see I could have done a better job of holding the object straight. this is why having someone else take the photo is helpful. Notice in the bottom right the 600 x 88? That's the size of the selection box I drew. The number 600 is the length in pixels of my object in this photo. This number is unique to the distance you held the camera away from the subject when the photo was taken so don't just copy my work and do this for yourself. 
+
+![[Throw_Replay_Model_Pixels.JPG]]
+As you can see I could have done a better job of holding the object straight. this is why having someone else take the photo is helpful. Notice in the bottom right the 600 x 88? That's the size of the selection box I drew. The number 600 is the length in pixels of my object in this photo. This number is unique to the distance you held the camera away from the subject when the photo was taken so don't just copy my work and do this for yourself. 
 
 Now that we know the dimensions we need to give all this data to the Throw Replay system.
 Head to the [athlete model update page](https://heavyathlete.com/premium/athlete_model/).

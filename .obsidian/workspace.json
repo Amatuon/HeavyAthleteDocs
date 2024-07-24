@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marty's Computation Corner/A Website is fried chicken.md",
+                "file": "Marty's Computation Corner/Programming Languages as Explorers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marty's Computation Corner/A Website is fried chicken.md",
+                "file": "Marty's Computation Corner/Programming Languages as Explorers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marty's Computation Corner/A Website is fried chicken.md",
+                "file": "Marty's Computation Corner/Programming Languages as Explorers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marty's Computation Corner/A Website is fried chicken.md"
+                "file": "Marty's Computation Corner/Programming Languages as Explorers.md"
               }
             }
           },
@@ -137,12 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 247.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,36 +156,40 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d6793bba44217dd0",
+  "active": "3e4c48ab048fa065",
   "lastOpenFiles": [
-    "Marty's Computation Corner/With_and_Without_CSS.jpg",
-    "Marty's Computation Corner/Programming Languages as Explorers.md",
     "Marty's Computation Corner/A Website is fried chicken.md",
-    "Everything/Dark Stranger LLC.md",
-    "Everything/Partners.md",
-    "Secret Blogs/Secret Blogs.md",
-    "Marty's Computation Corner",
-    "Secret Blogs",
-    "Everything/How we make Money.md",
-    "Everything/Athlete Page.md",
-    "Everything/Obsidian.md",
-    "Everything/Navbar.md",
-    "Everything/Setting Up Throw Replay.md",
-    "Everything/Quick Start Director.md",
-    "Everything/Sign Up For Game.md",
-    "Everything/Stripe.md",
-    "Everything/Claim Historical Data.md",
-    "Everything/Heavy Athlete Documentation.md",
-    "Everything/Classes.md",
-    "Everything/Quick Start Athlete.md",
-    "Everything/Getting Started.md",
+    "Marty's Computation Corner/Programming Languages as Explorers.md",
+    "Everything/Viewing a Throw Replay Model.md",
+    "Everything/Using Throw Replay.md",
     "Everything/Update Profile.md",
     "Everything/Throw Replay.md",
-    "Everything/Using Throw Replay.md",
+    "Everything/Stripe.md",
+    "Everything/Setting Up Throw Replay.md",
+    "Everything/Quick Start Director.md",
+    "Everything/Quick Start Athlete.md",
+    "Everything/Partners.md",
+    "Everything/Obsidian.md",
+    "Everything/Navbar.md",
+    "Everything/How we make Money.md",
     "Everything/Home Page.md",
+    "Everything/Heavy Athlete Documentation.md",
+    "Everything/Getting Started.md",
     "Everything/Flights vs Classes.md",
     "Everything/Flights.md",
     "Everything/Find Upcoming Game.md",
+    "Everything/Donation Page.md",
+    "Everything/Database Layout.md",
+    "Everything/Dark Stranger LLC.md",
+    "Everything/Classes.md",
+    "Everything/Athlete Page.md",
+    "Marty's Computation Corner/With_and_Without_CSS.jpg",
+    "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg",
+    "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg.0.pdnSave",
+    "Untitled.md",
+    "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jfif",
+    "Marty's Computation Corner",
+    "Secret Blogs",
     "Everything/Throw_Replay_Model_Sample.jpg",
     "Everything/Throw_Replay_Model_Pixels.JPG",
     "Attachments",
