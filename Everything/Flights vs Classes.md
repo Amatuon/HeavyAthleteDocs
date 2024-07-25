@@ -1,4 +1,3 @@
-
 # You're not alone most people get this mixed up
 
 [[Flights]] and [[Classes]] are in fact used synonymously basically everywhere. Heavy Athlete is bucking that trend because there are two related but different concepts here. 

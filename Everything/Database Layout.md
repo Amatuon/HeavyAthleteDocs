@@ -1,3 +1,5 @@
+# Database Nonsense
+
 Warning this is really nerdy. You probably don't need to read this page unless you are trying to contribute to, steal from, or maintain the site.
 
 Below is a copy of the database schema comments added for support

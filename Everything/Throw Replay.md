@@ -1,6 +1,7 @@
+# Welcome to Throw Replay
 ## Unlock the Power of Professional-Level Analysis
 
-Welcome to Throw Replay, our cutting-edge [[Premium Feature]] designed to transform your throwing technique. This isn't just another video analysis tool – it's your personal throwing coach, powered by advanced technology.
+Welcome to Throw Replay, our cutting-edge [[Premium Features|Premium Feature]] designed to transform your throwing technique. This isn't just another video analysis tool – it's your personal throwing coach, powered by advanced technology.
 
 [Watch Throw Replay in Action](https://youtu.be/26zjq2_BNqo)
 

@@ -1,3 +1,4 @@
+# Traditional Order
 Traditional order is the order in which we display scores on the site.  [[Sheaf]] was added to the games much later and isn't at the end so you can debate how "traditional" traditional is. That doesn't really matter though when people say that the events are happening in traditional order this is what they mean.
 
 - [[Braemar Stone]]

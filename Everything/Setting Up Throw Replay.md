@@ -1,4 +1,4 @@
-
+# Setting up an Athlete Model in Throw Replay
 The [[Throw Replay]] is one of our [[Premium Features]] to use it first [purchase premium access](https://heavyathlete.com/premium/signup/). 
 
 The Throw Replay system needs a model of your proportions to more accurately generate the final model. In particular we need to know the length from one shoulder to the other. To make life simple for all of us this can be done from a photo if you provide 2 additional data points. 

@@ -1,3 +1,4 @@
+# How to use Throw Replay
 If you haven't already first [[Setting Up Throw Replay|set up Throw Replay]].
 
 Now that your Athlete Model is ready clicking the [[Throw Replay]] button on the [[Home Page]] should take you [here](https://heavyathlete.com/premium/wireframe_video/).

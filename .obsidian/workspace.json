@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "585f229cef172c94",
+        "id": "41782ac7fcbf2e48",
         "type": "tabs",
         "children": [
           {
-            "id": "3e4c48ab048fa065",
+            "id": "f4b9a734d1e7af0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marty's Computation Corner/Programming Languages as Explorers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "004815e77a68de13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marty's Computation Corner/A Website is fried chicken.md",
+                "file": "Everything/Standard Weights.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb80a6739ee2815c",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marty's Computation Corner/Programming Languages as Explorers.md",
+                "file": "Everything/Standard Weights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marty's Computation Corner/Programming Languages as Explorers.md",
+                "file": "Everything/Standard Weights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marty's Computation Corner/Programming Languages as Explorers.md"
+                "file": "Everything/Standard Weights.md"
               }
             }
           },
@@ -149,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,14 +158,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e4c48ab048fa065",
+  "active": "f4b9a734d1e7af0d",
   "lastOpenFiles": [
+    "Braemar Stone.md",
+    "Everything/Standard Weights.md",
+    "Everything/Throw Replay.md",
+    "Everything/Kilt.md",
+    "Marty's Computation Corner/Programming Languages as Explorers.md",
     "Marty's Computation Corner/A Website is fried chicken.md",
     "Everything/Viewing a Throw Replay Model.md",
     "Everything/Using Throw Replay.md",
     "Everything/Update Profile.md",
-    "Everything/Throw Replay.md",
+    "Everything/Traditional Order.md",
     "Everything/Stripe.md",
+    "Everything/Sign Up For Game.md",
     "Everything/Setting Up Throw Replay.md",
     "Everything/Quick Start Director.md",
     "Everything/Quick Start Athlete.md",
@@ -190,12 +186,6 @@
     "Everything/Flights.md",
     "Everything/Find Upcoming Game.md",
     "Everything/Donation Page.md",
-    "Everything/Database Layout.md",
-    "Everything/Dark Stranger LLC.md",
-    "Everything/Classes.md",
-    "Everything/Claim Historical Data.md",
-    "Marty's Computation Corner/Programming Languages as Explorers.md",
-    "Everything/Athlete Page.md",
     "Marty's Computation Corner/With_and_Without_CSS.jpg",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg.0.pdnSave",
