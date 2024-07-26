@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41782ac7fcbf2e48",
+        "id": "f29fa4c869f7a813",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b9a734d1e7af0d",
+            "id": "8f7ba95c27d32e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eb80a6739ee2815c",
@@ -158,26 +157,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f4b9a734d1e7af0d",
+  "active": "8f7ba95c27d32e1d",
   "lastOpenFiles": [
-    "Braemar Stone.md",
+    "Motto.md",
     "Everything/Standard Weights.md",
-    "Everything/Throw Replay.md",
-    "Everything/Kilt.md",
+    "Why no Junior Class.md",
+    "Footnotes for Standard Weights.md",
     "Marty's Computation Corner/Programming Languages as Explorers.md",
     "Marty's Computation Corner/A Website is fried chicken.md",
     "Everything/Viewing a Throw Replay Model.md",
     "Everything/Using Throw Replay.md",
     "Everything/Update Profile.md",
-    "Everything/Traditional Order.md",
+    "Everything/Throw Replay.md",
     "Everything/Stripe.md",
-    "Everything/Sign Up For Game.md",
     "Everything/Setting Up Throw Replay.md",
     "Everything/Quick Start Director.md",
     "Everything/Quick Start Athlete.md",
     "Everything/Partners.md",
     "Everything/Obsidian.md",
     "Everything/Navbar.md",
+    "Everything/Kilt.md",
     "Everything/How we make Money.md",
     "Everything/Home Page.md",
     "Everything/Heavy Athlete Documentation.md",
