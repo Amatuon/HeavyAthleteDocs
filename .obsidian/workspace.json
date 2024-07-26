@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Standard Weights.md",
+                "file": "Custom Events.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Standard Weights.md",
+                "file": "Custom Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Standard Weights.md",
+                "file": "Custom Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Standard Weights.md"
+                "file": "Custom Events.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "8f7ba95c27d32e1d",
   "lastOpenFiles": [
-    "Motto.md",
     "Everything/Standard Weights.md",
+    "Custom Events.md",
+    "Motto.md",
     "Why no Junior Class.md",
     "Footnotes for Standard Weights.md",
     "Marty's Computation Corner/Programming Languages as Explorers.md",
@@ -184,7 +185,6 @@
     "Everything/Flights vs Classes.md",
     "Everything/Flights.md",
     "Everything/Find Upcoming Game.md",
-    "Everything/Donation Page.md",
     "Marty's Computation Corner/With_and_Without_CSS.jpg",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg.0.pdnSave",
