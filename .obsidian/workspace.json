@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f29fa4c869f7a813",
+        "id": "d038ea54350176f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7ba95c27d32e1d",
+            "id": "96bf6afffa378296",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Events.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 354.5004348754883
   },
   "right": {
     "id": "eb80a6739ee2815c",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Custom Events.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,45 +149,48 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8f7ba95c27d32e1d",
+  "active": "96bf6afffa378296",
   "lastOpenFiles": [
-    "Everything/Standard Weights.md",
-    "Custom Events.md",
-    "Motto.md",
-    "Why no Junior Class.md",
-    "Footnotes for Standard Weights.md",
+    "Website/Features/Custom Events.md",
+    "Guides/Claim Historical Data.md",
+    "Website/Features/Find Upcoming Game.md",
+    "Everything Else/Flights.md",
+    "Everything Else/Flights vs Classes.md",
+    "Guides/Getting Started.md",
+    "Everything Else/Heavy Athlete Documentation.md",
+    "Website/Pages/Partners.md",
+    "Guides/Quick Start Director.md",
+    "Website/Pages/Search Bar.md",
+    "Guides/Setting Up Throw Replay.md",
+    "Guides/Sign Up For Game.md",
+    "Guides",
+    "Website/Pages",
+    "Website/Features",
+    "The Games",
+    "Reasoning and Footnotes",
+    "Website",
+    "Website/Pages/Game Page.md",
+    "Website/Pages/Games Calendar.md",
+    "Website/Features/Premium Features.md",
+    "Website/Features/Throw Replay.md",
+    "Everything Else/Penny.md",
+    "The Games/Standard Weights.md",
+    "Everything Else/Motto.md",
+    "Reasoning and Footnotes/Why no Junior Class.md",
+    "Reasoning and Footnotes/Footnotes for Standard Weights.md",
     "Marty's Computation Corner/Programming Languages as Explorers.md",
     "Marty's Computation Corner/A Website is fried chicken.md",
-    "Everything/Viewing a Throw Replay Model.md",
-    "Everything/Using Throw Replay.md",
-    "Everything/Update Profile.md",
-    "Everything/Throw Replay.md",
-    "Everything/Stripe.md",
-    "Everything/Setting Up Throw Replay.md",
-    "Everything/Quick Start Director.md",
-    "Everything/Quick Start Athlete.md",
-    "Everything/Partners.md",
-    "Everything/Obsidian.md",
-    "Everything/Navbar.md",
-    "Everything/Kilt.md",
-    "Everything/How we make Money.md",
-    "Everything/Home Page.md",
-    "Everything/Heavy Athlete Documentation.md",
-    "Everything/Getting Started.md",
-    "Everything/Flights vs Classes.md",
-    "Everything/Flights.md",
-    "Everything/Find Upcoming Game.md",
+    "Website/Features/Viewing a Throw Replay Model.md",
+    "Website/Features/Using Throw Replay.md",
+    "Website/Pages/Update Profile.md",
     "Marty's Computation Corner/With_and_Without_CSS.jpg",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jpg.0.pdnSave",
     "Marty's Computation Corner/Captain_Marty_Scourge_of_the_Sea.jfif",
     "Marty's Computation Corner",
     "Secret Blogs",
-    "Everything/Throw_Replay_Model_Sample.jpg",
-    "Everything/Throw_Replay_Model_Pixels.JPG",
-    "Attachments",
-    "Everything/Throw_Replay_Model_Pixels.JPG.0.pdnSave",
-    "Everything/~hrow_Replay_Model_Pixels.tmp",
+    "Website/Features/Throw_Replay_Model_Sample.jpg",
+    "Website/Features/Throw_Replay_Model_Pixels.JPG",
     "Everything/IMG_20240716_105306022.jpg"
   ]
 }

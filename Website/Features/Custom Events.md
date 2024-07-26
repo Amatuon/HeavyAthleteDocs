@@ -4,4 +4,7 @@ This is an often overlooked feature of the site. While we are the place for the 
 
 ADs have the power to add *any* and I do mean *any* event to their games. For reference just check out these:
 - [Festival at Fort 4 Stonelifting](https://heavyathlete.com/game/5769/)
-- 
+- [Ashville Highland Games](https://heavyathlete.com/game/5641/) had a problem with the pro sheaf bag. These scores are recorded but not in rankings.
+- [Breadalbane Gathering and Games](https://heavyathlete.com/game/5665/) included some keg tossing.
+
+Any score entered into a custom event will show up for that game and only for that game. Scores entered in custom events do **not** effect rankings.
