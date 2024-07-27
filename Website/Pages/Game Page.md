@@ -33,4 +33,4 @@
                 - Historic flights from a NASGA clone (if available and not a first party game).
             - Pending scores section (conditionally displayed if the user has permission to modify the game):
                 - A header row displays "Payment Pending".
-                - Only the athlete in question and a site administrator have the ability to remove you from pending. Read [[Help: I'm stuck at payment pending]] for more info.
+                - Only the athlete in question and a site administrator have the ability to remove you from pending. Read [[I'm stuck at payment pending]] for more info.

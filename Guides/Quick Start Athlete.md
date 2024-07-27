@@ -52,7 +52,7 @@ On the [[Game Sign up Page]]:
 3. Click the sign-up button
 4. For paid games, complete payment through [[Stripe]]
 
-For more details, see [[Sign Up For Game]] and [[Help: I'm stuck at payment pending]].
+For more details, see [[Sign Up For Game]] and [[I'm stuck at payment pending]].
 
 ## Next Steps
 - Get a [[Kilt]]
