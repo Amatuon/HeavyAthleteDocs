@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/I'm stuck at payment pending.md",
+                "file": "The Games/Standard Weights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "579223b7c620b7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Everything Else/Marty's Personality & Lore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/I'm stuck at payment pending.md",
+                "file": "Everything Else/Marty's Personality & Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/I'm stuck at payment pending.md",
+                "file": "Everything Else/Marty's Personality & Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/I'm stuck at payment pending.md"
+                "file": "Everything Else/Marty's Personality & Lore.md"
               }
             }
           },
@@ -157,8 +170,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "96bf6afffa378296",
+  "active": "579223b7c620b7e9",
   "lastOpenFiles": [
+    "The Games/Standard Weights.md",
+    "Everything Else/Marty's Personality & Lore.md",
+    "Conversation with Marty.md",
+    "ChemStud Notes.md",
+    "Conversation With Marty.md",
+    "Witzstock.md",
+    "WitzStock2024_v4 1.png",
+    "README.md",
+    "WitzStock2024_v4.png",
     "Website/Pages/Update Profile.md",
     "Website/Pages/Search Bar.md",
     "Website/Pages/Partners.md",
@@ -174,17 +196,10 @@
     "Website/Features/Find Upcoming Game.md",
     "Website/Features/Custom Events.md",
     "The Games/Traditional Order.md",
-    "The Games/Standard Weights.md",
     "The Games/Kilt.md",
     "Reasoning and Footnotes/Why no Junior Class.md",
     "Marty's Computation Corner/Programming Languages as Explorers.md",
     "Marty's Computation Corner/A Website is fried chicken.md",
-    "Guides/Setting Up Throw Replay.md",
-    "Guides/Quick Start Director.md",
-    "Guides/Quick Start Athlete.md",
-    "Guides/I'm stuck at payment pending.md",
-    "Guides/Getting Started.md",
-    "Guides/Claim Historical Data.md",
     "Guides",
     "Website/Pages",
     "Website/Features",

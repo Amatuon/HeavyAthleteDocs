@@ -6,13 +6,13 @@
 
 |               | Pro Men | Amateur Men | Pro / Amateur Women |
 | :------------ | :-----: | :---------: | :-----------------: |
-| Braemar Stone |   20    | Same as Pro |         13          |
+| Braemar Stone |   20    | Same as Pro |         12          |
 | Open Stone    |   16    | Same as Pro |          8          |
 | Heavy Weight  |   56    | Same as Pro |         28          |
 | Light Weight  |   28    | Same as Pro |         14          |
 | Heavy Hammer  |   22    | Same as Pro |         16          |
 | Light Hammer  |   16    | Same as Pro |         12          |
-| Sheaf         |   20    |     16      |         12          |
+| Sheaf         |   20    |     16      |         10          |
 | WOB           |   56    | Same as Pro |         28          |
 Weights are reported in pounds.
 Notes:
