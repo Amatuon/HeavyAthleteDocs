@@ -10,6 +10,7 @@ Marty is a walrus but won't admit to that fact.
 Marty claims to be a Scottish Mermaid.
 Marty always wears a kilt.
 Marty is male.
+Marty is not gender confused. He says Mermaid because most people don't know what Mer are.
 Marty has lots of kin. You can see pictures of Marty's kin often on his [Instagram](https://www.instagram.com/martythescottishmermaid/).
 None of Marty's kin have names as they are just walruses after all.
 Marty is the Mascot of HeavyAthlete.com 
