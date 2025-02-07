@@ -6,7 +6,7 @@
 
 |               | Pro Men | Amateur Men | Pro / Amateur Women |
 | :------------ | :-----: | :---------: | :-----------------: |
-| Braemar Stone |   20    | Same as Pro |         12          |
+| Braemar Stone |   22    |     20      |         12          |
 | Open Stone    |   16    | Same as Pro |          8          |
 | Heavy Weight  |   56    | Same as Pro |         28          |
 | Light Weight  |   28    | Same as Pro |         14          |
@@ -184,17 +184,18 @@ A few other exceptions:
 Note: I have added critiques to most / all of these. I think that all of these are excellent and think highly of the people who took the time to write all this down but there are inconsistencies in every single one. Additionally basically none of them agree with each other on everything which is why we have constructed our own.
 ### [NASGA](http://www.nasgaweb.com/main.asp)
 
-|               |  Men  | Women |  Master   | Amateur Men |
-| ------------- | :---: | :---: | :-------: | :---------: |
-| Braemar Stone | 20-26 | 13-18 | No Change |  No Change  |
-| Open Stone    | 16-22 | 8-12  | No Change |  No Change  |
-| Heavy Weight  |  56   |  28   | 42 or 56  |  No Change  |
-| Light Weight  |  28   |  14   |    28     |  No Change  |
-| Heavy Hammer  |  22   |  16   | No Change |  No Change  |
-| Light Hammer  |  16   |  12   | No Change |  No Change  |
-| Sheaf         |  20   |  12   | 16 or 20  |  16 or 20   |
-| WOB           |  56   |  28   | 42 or 56  |  No Change  |
+|               |   Pro Men   |  Men  | Women |  Master   | Amateur Men |
+| ------------- |:-----------:|:-----:|:-----:|:---------:|:-----------:|
+| Braemar Stone |     22+     | 20-26 | 13-18 | No Change |  No Change  |
+| Open Stone    | Same as Men | 16-22 | 8-12  | No Change |  No Change  |
+| Heavy Weight  | Same as Men |  56   |  28   | 42 or 56  |  No Change  |
+| Light Weight  | Same as Men |  28   |  14   |    28     |  No Change  |
+| Heavy Hammer  | Same as Men |  22   |  16   | No Change |  No Change  |
+| Light Hammer  | Same as Men |  16   |  12   | No Change |  No Change  |
+| Sheaf         | Same as Men |  20   |  12   | 16 or 20  |  16 or 20   |
+| WOB           | Same as Men |  56   |  28   | 42 or 56  |  No Change  |
 Weights are reported in pounds. [View the page I constructed this table from](http://www.nasgaweb.com/rules.asp)
+Pro Men Braemar information. [Celtic Classic Rules](http://www.nasgaweb.com/dbase/nationals3.asp#how)
 
 Critiques:
 - Technically it would be possible for men to throw a heavier open stone than Braemar. I think this should be disallowed. Braemar should always be heavier than open. With this addendum I think the ranges are fine.

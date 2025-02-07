@@ -40,9 +40,9 @@ Get access to exclusive features:
 - Side-by-Side comparisons
 - And more!
 
-## 4. E-commerce (Coming Soon)
+## 4. E-commerce
 
-We plan to sell products directly through the platform. This feature is currently in development and not yet available.
+We sell highland games products directly through the platform.
 
 ## Our Commitment to Data Privacy
 
