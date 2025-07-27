@@ -1,0 +1,107 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "Everything Else",
+      "guid": "fe19276e-95d9-4df1-bed0-aba960180ce3",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Guides",
+      "guid": "f4168b7e-4bbe-43ed-ac29-2051a7d7798f",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Marty's Computation Corner",
+      "guid": "e2681fdc-5c24-4c92-b6e3-fb1f741f14c7",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Marty's Computation Corner/Heavy Development Podcast",
+      "guid": "0cacd5f6-d3f7-4944-8a7f-77efa1f7c10a",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Reasoning and Footnotes",
+      "guid": "4e8a33cd-300f-4c9a-8cad-05c062d12127",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "The Games",
+      "guid": "c1874b20-3f53-4898-9a6d-1151a3ca8db8",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Website",
+      "guid": "30ce209e-85e3-46e4-8b40-22b1fa4af01c",
+      "relay": "5e350d73-33d4-45e0-9209-41899cd28edd",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": true,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "enableAttachmentSync": true,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "debugging": false
+}

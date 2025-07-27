@@ -14,7 +14,8 @@ We collect a fee when you sign up for a game. This fee is split between Heavy At
 - For payments less than $14.29: App fee > 5% due to Stripe's $0.30 fixed fee
 - For payments $14.29 and above: Total app fee = 5%
 
-This structure is designed to cover our server costs with a 2x buffer for potential growth.
+This structure was designed to cover our server costs with a 2x buffer for potential growth.
+Now that we are hosting a [[Heavy Athletes presents the Heavy Athletics World Showcase.|major game]] this is hopefully a large source funding for that game.
 
 ### Fee Distribution Table:
 
@@ -42,7 +43,13 @@ Get access to exclusive features:
 
 ## 4. E-commerce
 
-We sell highland games products directly through the platform.
+We sell highland games products directly through the platform. [https://heavyathlete.square.site/](https://heavyathlete.square.site/)
+
+## 5. Making a Highland Game into a show
+
+To dissuade people from trying to get involved with Heavy Athlete motivated by greed we have made the commitment to channel all the money made by the above methods into a single game. To learn more about the motivation behind this check out the [official announcement video](https://www.youtube.com/watch?v=BWw9sMk9p-k&t=1s) To read about the structure of the game [[Heavy Athletes presents the Heavy Athletics World Showcase.]] 
+
+[[Dark Stranger LLC|I]] have always tried to structure Heavy Athlete in such a way that I only do well when the sport does well. The tide raises all boats. This game is my way of helping raise the tide. That's why all the money Heavy Athlete makes goes into it. That being said I do this full time and would like to pay rent and at least have the option to start a family one day. So the money that this game makes I am allowed and fully intend to keep. This incentivizes me to turn this game into a phenomenon with wide reaching appeal so that I can actually run a profitable business and not just a charity.
 
 ## Our Commitment to Data Privacy
 

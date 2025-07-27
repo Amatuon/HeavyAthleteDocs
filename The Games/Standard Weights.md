@@ -27,14 +27,14 @@ Note: Hey Matt can we make shotputs official open stones here? I'm for it. Altho
 
 |               | Masters Men 40-59 | Masters Men 60+ | Masters Women 40-59 | Masters Women 60+ |
 | :------------ | :---------------: | :-------------: | :-----------------: | :---------------: |
-| Braemar Stone |        22         |       12        |         22          |        12         |
-| Open Stone    |        16         |        8        |         16          |         8         |
-| Heavy Weight  |        42         |       21        |         35          |        14         |
-| Light Weight  |        28         |       14        |         21          |         9         |
+| Braemar Stone |        22         |       22        |         12          |        12         |
+| Open Stone    |        16         |       16        |          8          |         8         |
+| Heavy Weight  |        42         |       35        |         21          |        14         |
+| Light Weight  |        28         |       21        |         35          |         9         |
 | Heavy Hammer  |        22         |       16        |         16          |        12         |
 | Light Hammer  |        16         |       12        |         12          |         8         |
 | Sheaf         |        16         |       16        |         10          |        10         |
-| WOB           |        42         |       21        |         35          |        14         |
+| WOB           |        42         |       35        |         21          |        14         |
 Weights are reported in pounds.
 Notes:
 1. All weights listed are the **minimum** weight allowed for the implement. 

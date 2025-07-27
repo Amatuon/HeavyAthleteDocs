@@ -46,7 +46,13 @@
   "exportPath": "F:\\\\Code\\HeavyAthleteDocs\\HeavyAthleteDocsExport",
   "filesToExport": [
     [
-      "Everything Else"
+      "Everything Else",
+      "Guides",
+      "Marty's Computation Corner",
+      "Reasoning and Footnotes",
+      "The Games",
+      "Website",
+      "Heavy Athletes presents the Heavy Athletics World Showcase..md"
     ]
   ],
   "inlineCSS": false,
