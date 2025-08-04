@@ -19,3 +19,4 @@ Location data is something that we **DO NOT** need to know about you and is **NO
 Your Biography is displayed on your [[Athlete Page]] allows you to say something about yourself. In the future [[Live Scoring]] will be extended to display this information to Masters of Ceremonies so that they have something to talk about on the field even if they don't know you personally.
 
 Heavy Athlete supports and acknowledges the Adaptive Classes recognized by [[Broken Caber]]. To be able to sign up for an adaptive class select it here and it will show up on the [[Game Sign up Page]] if the AD has enabled that class for the game. 
+

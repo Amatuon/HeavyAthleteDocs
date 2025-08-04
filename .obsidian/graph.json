@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Marty's Computation Corner\"  ",
+      "query": "path:\"Everything Else\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Website  ",
+      "query": "path:Guides  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -29,17 +29,24 @@
       }
     },
     {
-      "query": "path:\"The Games\"  ",
+      "query": "path:\"Marty's Computation Corner\"  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:Guides  ",
+      "query": "path:\"The Games\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Website  ",
+      "color": {
+        "a": 1,
+        "rgb": 10965728
       }
     }
   ],
@@ -47,12 +54,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.645727399541016,
+  "repelStrength": 16.3704270350538,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 301,
   "scale": 1.2975120364397639,
   "close": true
 }
