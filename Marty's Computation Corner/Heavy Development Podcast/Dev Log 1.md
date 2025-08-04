@@ -33,3 +33,5 @@ Wow sorry I got off topic there. What I was trying to say is my perspective is w
 If you liked this tune in for more dev logs I promise that I'll be talking about cool technical details about the site. If you have been saddled with this as my replacement after I die and you are listening to this to try to understand the decisions that went into making the wild ride you got yourself into. Thank you, I'm sorry and may God help you.
 
 This has been Michael McDougal from Heavy Athlete. I'll see you next time after I break some more things.
+
+Next [[Dev Log 10 aka 2]]

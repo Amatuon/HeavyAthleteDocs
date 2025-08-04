@@ -14,7 +14,7 @@ Compete:
 - This is our community time when we gather. We reaffirm our bonds and push each other to become better.
 
 Celebrate:
-- Look at your placement in Rankings. Every score is based of a percentage of the world record. Every PR brings you closer
+- Look at your placement in Rankings. Every score is based of a percentage of the world record. Every PR brings you closer.
 - Look at your athlete page. Track your progress and growth over time.
 - Look at the games pages. If you are signed in you have the option to instantly see every throw that was a PR or SB for every athlete.
 - The reason we have to celebrate so hard is, at the first game I ever attended [Wes Kiser](https://heavyathlete.com/athlete/nasga4044/) said, "Celebrate every PR, because one day they stop."

@@ -10,3 +10,5 @@ Flights only exists on game day. This is the group that you throw with. By defau
 Classes exist for [[Rankings]]. The pros aren't in the same pond with the ams and the men aren't in the same pond as the women. Classes should tell you a little about the biology of the athlete (sex and age) and more importantly which implements they threw. At Heavy Athlete we don't discriminate (we hate everyone equally) so honestly classes are more for athletes to compare themselves to each other. What we do care about is the implements thrown the pro sheaf is 20 lbs and while the am is 16 lbs. There are other [[Standard Weights]] but those implement differences are why we have different classes. 
 
 So as an AD you can modify both. In general the only change you may have to make to a class is moving someone from lightweight to not lightweight if they weigh in over on game day. Flights the world is your oyster you never have to interact with flights if you don't want but it can make your game results cleaner to look at on the site.
+
+I have gone and added a new term to the mix Groups. Sorry but it was needed. You can read about it here [[Flights, Classes, Groups]]

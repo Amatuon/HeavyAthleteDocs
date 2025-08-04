@@ -18,3 +18,5 @@ There are other guiding principles for the site like "Accuracy above kindness", 
 
 
 This has been Michael McDougal from Heavy Athlete. I'll see you next time after I break some more things.
+
+Next [[Dev Log 11]]
